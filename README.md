@@ -67,4 +67,4 @@ Response efficiency and human impact do not always move together, highlighting t
 ---
 
 ## Preview
-![Dashboard overview](images/dashboard_overview.png)
+![Dashboard overview](main/dashboard_overview.png)
