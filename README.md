@@ -1,5 +1,3 @@
-# global-disaster-response-excel-dashboard
-
 # Global Disaster Response Analysis (2018–2024)
 
 ## Overview
